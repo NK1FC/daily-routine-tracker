@@ -20,6 +20,14 @@ h1 {
     text-align: center;
 }
 
+#date-picker {
+    width: calc(100% - 22px);
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
 #new-task-input {
     width: calc(100% - 22px);
     padding: 10px;
